@@ -6,7 +6,7 @@
 
 ## If you need a screenshot in readme
 ```
-Just drag screenshot saved on your computer here.
+Go to issues and drag screenshot, then get a link for your screenshot, copy link, paste in readme file.
 ```
 
 ### Release Issues
