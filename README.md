@@ -17,8 +17,9 @@ Go to issues and drag screenshot, then get a link for your screenshot, copy link
 Go to issues, drag the screenshot saved previously on your computer here, you can click preview to preview the screeshot.
 ```
 #### If you wanna resize image, then will need img tag and style.
+---
 
 **List**
-- 1: Readme
+- Readme
 - Change log
 - License
