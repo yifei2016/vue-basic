@@ -4,7 +4,7 @@
 
 ## If you need a screenshot in readme
 ```
-<p>Just drag screenshot saved on your computer here.</p>
+Just drag screenshot saved on your computer here.
 ```
 
 ### Release Issues
