@@ -19,6 +19,6 @@ Go to issues, drag the screenshot saved previously on your computer here, you ca
 #### If you wanna resize image, then will need img tag and style.
 
 **List**
-- Readme
+- 1: Readme
 - Change log
 - License
