@@ -24,7 +24,7 @@ Go to issues, drag the screenshot saved previously on your computer here, you ca
 - Change log
 - License
 
-# Contributor 
+## Contributor 
 
 - Yifei <hello.yifei@icloud.com>
 
