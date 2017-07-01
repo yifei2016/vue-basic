@@ -3,8 +3,9 @@
 <a>https://vuejs.org/</a>
 
 ## If you need a screenshot in readme
-
-Just drag screenshot saved on your computer here.
+```
+<p>Just drag screenshot saved on your computer here.</p>
+```
 
 ### Release Issues
 ```
