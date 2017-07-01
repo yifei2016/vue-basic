@@ -23,3 +23,12 @@ Go to issues, drag the screenshot saved previously on your computer here, you ca
 - Readme
 - Change log
 - License
+
+# Contributor 
+
+- Yifei <hello.yifei@icloud.com>
+
+---
+## License & copyright 
+
+© Yifei, xxx college Graphic Design
