@@ -10,7 +10,7 @@
 ```
 Go to issues and drag screenshot, then get a link for your screenshot, copy link, paste in readme file.
 ```
-### If you wanna resize image, then will need img tag and style.
+#### If you wanna resize image, then will need img tag and style.
 
 ### Release Issues
 ```
